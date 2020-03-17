@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf4c64b8-1239-4e96-935f-e9e3689b68e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hello_world_app/pages/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world_app/helloworld/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello_world_app/helloworld/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,7 +56,7 @@
       <workItem from="1583800188899" duration="31000" />
       <workItem from="1583800238642" duration="1052000" />
       <workItem from="1583801306663" duration="869000" />
-      <workItem from="1584399548214" duration="3314000" />
+      <workItem from="1584399548214" duration="4937000" />
     </task>
     <task id="LOCAL-00001" summary="Initiating pipenv">
       <created>1583801143941</created>
@@ -63,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583801143942</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creating Hello World App">
+      <created>1584415191536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584415191536</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,17 +80,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initiating pipenv" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initiating pipenv" />
+    <MESSAGE value="Creating Hello World App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating Hello World App" />
   </component>
   <component name="WindowStateProjectService">
     <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583802121853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1583802121853" />
-    <state x="558" y="116" key="CommitChangelistDialog2" timestamp="1583801142256">
+    <state x="558" y="116" key="CommitChangelistDialog2" timestamp="1584415189904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="116" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1583801142256" />
+    <state x="558" y="116" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584415189904" />
     <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1583800656439">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -90,14 +100,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584411510919" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1583800744539">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1584416228232">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1583800744539" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584415067577">
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584416228232" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584415228165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584415067577" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584415228165" />
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583801152444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
