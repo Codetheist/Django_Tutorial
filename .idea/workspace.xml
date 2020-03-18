@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cf4c64b8-1239-4e96-935f-e9e3689b68e7" name="Default Changelist" comment="Deploying pages_project to Heroku fixed issues with the Procfile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/pages/debug.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +51,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -85,6 +84,10 @@
       <workItem from="1584505014317" duration="3575000" />
       <workItem from="1584546009856" duration="1320000" />
       <workItem from="1584556276751" duration="3884000" />
+      <workItem from="1584565507133" duration="2456000" />
+      <workItem from="1584568492794" duration="1517000" />
+      <workItem from="1584570360245" duration="845000" />
+      <workItem from="1584571596630" duration="511000" />
     </task>
     <task id="LOCAL-00001" summary="Initiating pipenv">
       <created>1583801143941</created>
@@ -173,17 +176,19 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584504334067" />
-    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1583800656439">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="521" y="163" width="440" height="491" key="FileChooserDialogImpl" timestamp="1584572104499">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="521" y="163" width="440" height="491" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584572104499" />
     <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1583800656439" />
     <state x="540" y="263" key="IDE.errors.dialog" timestamp="1584411510919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584411510919" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1584416228232">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="328" y="17" key="SettingsEditor" timestamp="1584572117264">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="328" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584572117264" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584416228232" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584559333882">
       <screen x="0" y="0" width="1920" height="1040" />
