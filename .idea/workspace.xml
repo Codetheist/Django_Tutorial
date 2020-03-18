@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf4c64b8-1239-4e96-935f-e9e3689b68e7" name="Default Changelist" comment="Creating pages using Django">
-      <change afterPath="$PROJECT_DIR$/pages/pages/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cf4c64b8-1239-4e96-935f-e9e3689b68e7" name="Default Changelist" comment="Creating pages using Django" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +78,7 @@
       <workItem from="1584480665587" duration="5814000" />
       <workItem from="1584500350228" duration="2795000" />
       <workItem from="1584503163564" duration="1833000" />
-      <workItem from="1584505014317" duration="3349000" />
+      <workItem from="1584505014317" duration="3575000" />
     </task>
     <task id="LOCAL-00001" summary="Initiating pipenv">
       <created>1583801143941</created>
@@ -149,10 +143,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1583802121853" />
-    <state x="558" y="116" key="CommitChangelistDialog2" timestamp="1584504284244">
+    <state x="558" y="116" key="CommitChangelistDialog2" timestamp="1584508582853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="116" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584504284244" />
+    <state x="558" y="116" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584508582853" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1584504334067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
