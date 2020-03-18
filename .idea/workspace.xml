@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cf4c64b8-1239-4e96-935f-e9e3689b68e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hello_world_app/pages/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld/pages/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld/pages/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello_world_app/helloworld/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello_world_app/helloworld/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world_app/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world_app/helloworld/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world_app/helloworld/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world_app/helloworld/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world_app/helloworld/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world_app/helloworld/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world_app/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world_app/pages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world_app/pages/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world_app/pages/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world_app/pages/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world_app/pages/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world_app/pages/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world_app/pages/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world_app/pages/views.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +48,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -22,12 +56,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YufDjOIOUdEnN8RUlfQexKhRzc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -57,6 +94,9 @@
       <workItem from="1583800238642" duration="1052000" />
       <workItem from="1583801306663" duration="869000" />
       <workItem from="1584399548214" duration="4937000" />
+      <workItem from="1584480665587" duration="5814000" />
+      <workItem from="1584500350228" duration="2795000" />
+      <workItem from="1584503163564" duration="971000" />
     </task>
     <task id="LOCAL-00001" summary="Initiating pipenv">
       <created>1583801143941</created>
@@ -77,6 +117,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initiating pipenv" />
