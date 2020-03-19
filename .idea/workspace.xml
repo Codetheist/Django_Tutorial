@@ -90,7 +90,7 @@
       <workItem from="1584546009856" duration="1320000" />
       <workItem from="1584556276751" duration="3884000" />
       <workItem from="1584583293745" duration="3019000" />
-      <workItem from="1584618675604" duration="13125000" />
+      <workItem from="1584618675604" duration="13756000" />
     </task>
     <task id="LOCAL-00001" summary="Initiating pipenv">
       <created>1583801143941</created>
@@ -162,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584632163516</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update Procfile for Heroku deployment">
+      <created>1584637164219</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584637164219</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,17 +194,18 @@
     <MESSAGE value="Deploying pages_project to Heroku fixed issues with the Procfile" />
     <MESSAGE value="Creating Message Board App" />
     <MESSAGE value="Update Message Board App for Heroku deployment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Message Board App for Heroku deployment" />
+    <MESSAGE value="Update Procfile for Heroku deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Procfile for Heroku deployment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583802121853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1583802121853" />
-    <state x="558" y="116" key="CommitChangelistDialog2" timestamp="1584632162607">
+    <state x="558" y="116" key="CommitChangelistDialog2" timestamp="1584637163251">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="116" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584632162607" />
+    <state x="558" y="116" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584637163251" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1584504334067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -206,18 +214,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584586121190" />
-    <state x="540" y="263" key="IDE.errors.dialog" timestamp="1584585669715">
+    <state x="540" y="263" key="IDE.errors.dialog" timestamp="1584637199628">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584585669715" />
+    <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584637199628" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1584586105428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584586105428" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584632171009">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584637173290">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584632171009" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584637173290" />
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583801152444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
