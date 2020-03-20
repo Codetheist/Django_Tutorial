@@ -19,7 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf4c64b8-1239-4e96-935f-e9e3689b68e7" name="Default Changelist" comment="" />
+    <list default="true" id="cf4c64b8-1239-4e96-935f-e9e3689b68e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/blog/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +42,7 @@
       <list>
         <option value="Python Script" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -54,6 +64,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
     <property name="last_opened_file_path" value="F:/GitHub" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -88,7 +99,7 @@
       <workItem from="1584556276751" duration="3884000" />
       <workItem from="1584583293745" duration="3019000" />
       <workItem from="1584618675604" duration="31579000" />
-      <workItem from="1584656683279" duration="626000" />
+      <workItem from="1584656683279" duration="13219000" />
     </task>
     <task id="LOCAL-00001" summary="Initiating pipenv">
       <created>1583801143941</created>
@@ -247,10 +258,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="601" y="287" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584642442707" />
-    <state x="558" y="116" key="CommitChangelistDialog2" timestamp="1584640303039">
+    <state x="558" y="116" key="CommitChangelistDialog2" timestamp="1584657294720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="116" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584640303039" />
+    <state x="558" y="116" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584657294720" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1584504334067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -267,10 +278,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584656457948" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584640317895">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584657308705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584640317895" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584657308705" />
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583801152444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
