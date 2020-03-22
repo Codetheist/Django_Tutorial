@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf4c64b8-1239-4e96-935f-e9e3689b68e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog_project/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="cf4c64b8-1239-4e96-935f-e9e3689b68e7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +99,7 @@
       <workItem from="1584618675604" duration="31579000" />
       <workItem from="1584656683279" duration="13975000" />
       <workItem from="1584710796392" duration="15399000" />
-      <workItem from="1584841490898" duration="8042000" />
+      <workItem from="1584841490898" duration="8523000" />
     </task>
     <task id="LOCAL-00001" summary="Initiating pipenv">
       <created>1583801143941</created>
@@ -286,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584849721615</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Updating the Heroku config typ in the blog_project\settings.py whitenoise config.">
+      <created>1584851019755</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1584851019755</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,7 +323,8 @@
     <MESSAGE value="Updated the accounts.url to accounts.urls forgot to add the s that was causing an error in my tutorial blog app." />
     <MESSAGE value="Configuring files and updates for Heroku" />
     <MESSAGE value="Heroku config" />
-    <option name="LAST_COMMIT_MESSAGE" value="Heroku config" />
+    <MESSAGE value="Updating the Heroku config typ in the blog_project\settings.py whitenoise config." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating the Heroku config typ in the blog_project\settings.py whitenoise config." />
   </component>
   <component name="WindowStateProjectService">
     <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584724270846">
@@ -330,10 +335,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="601" y="287" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584642442707" />
-    <state x="558" y="116" key="CommitChangelistDialog2" timestamp="1584849720628">
+    <state x="558" y="116" key="CommitChangelistDialog2" timestamp="1584851018968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="116" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584849720628" />
+    <state x="558" y="116" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584851018968" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1584504334067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
