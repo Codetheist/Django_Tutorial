@@ -20,19 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf4c64b8-1239-4e96-935f-e9e3689b68e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/templates/post_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/post_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/signup.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/3.0.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog_project/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/blog/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/post_detail.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +99,8 @@
       <workItem from="1584583293745" duration="3019000" />
       <workItem from="1584618675604" duration="31579000" />
       <workItem from="1584656683279" duration="13975000" />
-      <workItem from="1584710796392" duration="14860000" />
+      <workItem from="1584710796392" duration="15399000" />
+      <workItem from="1584841490898" duration="4227000" />
     </task>
     <task id="LOCAL-00001" summary="Initiating pipenv">
       <created>1583801143941</created>
@@ -254,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584721262892</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Updating blog dir with form configuration">
+      <created>1584736387857</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1584736387857</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,10 +297,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="601" y="287" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584642442707" />
-    <state x="558" y="116" key="CommitChangelistDialog2" timestamp="1584721261181">
+    <state x="558" y="116" key="CommitChangelistDialog2" timestamp="1584736386007">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="116" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584721261181" />
+    <state x="558" y="116" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584736386007" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1584504334067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -315,10 +317,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584656457948" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584721271052">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584736394896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584721271052" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584736394896" />
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583801152444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
