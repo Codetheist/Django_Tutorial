@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf4c64b8-1239-4e96-935f-e9e3689b68e7" name="Default Changelist" comment="" />
+    <list default="true" id="cf4c64b8-1239-4e96-935f-e9e3689b68e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +101,8 @@
       <workItem from="1584618675604" duration="31579000" />
       <workItem from="1584656683279" duration="13975000" />
       <workItem from="1584710796392" duration="15399000" />
-      <workItem from="1584841490898" duration="8523000" />
+      <workItem from="1584841490898" duration="8607000" />
+      <workItem from="1585005744975" duration="5743000" />
     </task>
     <task id="LOCAL-00001" summary="Initiating pipenv">
       <created>1583801143941</created>
@@ -290,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584851019755</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Updating the Heroku config typo in the blog_project\settings.py whitenoise config.">
+      <created>1584851432278</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1584851432278</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,7 +334,8 @@
     <MESSAGE value="Configuring files and updates for Heroku" />
     <MESSAGE value="Heroku config" />
     <MESSAGE value="Updating the Heroku config typ in the blog_project\settings.py whitenoise config." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating the Heroku config typ in the blog_project\settings.py whitenoise config." />
+    <MESSAGE value="Updating the Heroku config typo in the blog_project\settings.py whitenoise config." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating the Heroku config typo in the blog_project\settings.py whitenoise config." />
   </component>
   <component name="WindowStateProjectService">
     <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584724270846">
@@ -335,10 +346,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="601" y="287" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584642442707" />
-    <state x="558" y="116" key="CommitChangelistDialog2" timestamp="1584851018968">
+    <state x="558" y="116" key="CommitChangelistDialog2" timestamp="1584851431294">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="116" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584851018968" />
+    <state x="558" y="116" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584851431294" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1584504334067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -363,10 +374,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="846" y="435" key="VCS.EditChangelistDialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584846967193" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584849731232">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584851437161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584849731232" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584851437161" />
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584846845987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
