@@ -21,6 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="cf4c64b8-1239-4e96-935f-e9e3689b68e7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/news/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/newspaper_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/newspaper_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/templates/registration/password_change_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/templates/registration/password_change_form.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +54,6 @@
       </set>
     </option>
   </component>
-  <component name="JupyterTrust" id="df6a3122-c29f-4570-a3cc-1dfbd3d0f45a" />
   <component name="ProjectId" id="1YufDjOIOUdEnN8RUlfQexKhRzc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -64,7 +68,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Web_Dev/Django_Web_Dev" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -74,7 +78,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",HTML5_OUTLINE_MODE" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -103,10 +109,16 @@
       <workItem from="1584618675604" duration="31579000" />
       <workItem from="1584656683279" duration="13975000" />
       <workItem from="1584710796392" duration="15399000" />
-      <workItem from="1584841490898" duration="8523000" />
-      <workItem from="1584905760202" duration="2470000" />
-      <workItem from="1584909059588" duration="953000" />
-      <workItem from="1599572766433" duration="444000" />
+      <workItem from="1584841490898" duration="8607000" />
+      <workItem from="1585005744975" duration="12678000" />
+      <workItem from="1585179517203" duration="3136000" />
+      <workItem from="1585514730093" duration="3504000" />
+      <workItem from="1585612259484" duration="1872000" />
+      <workItem from="1585615646057" duration="666000" />
+      <workItem from="1586802513636" duration="1070000" />
+      <workItem from="1586806976714" duration="4673000" />
+      <workItem from="1586819042136" duration="12000" />
+      <workItem from="1588983065502" duration="3659000" />
     </task>
     <task id="LOCAL-00001" summary="Initiating pipenv">
       <created>1583801143941</created>
@@ -297,11 +309,60 @@
       <option name="project" value="LOCAL" />
       <updated>1584851019755</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Updating the Heroku config typo in the blog_project\settings.py whitenoise config.">
+      <created>1584851432278</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1584851432278</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Creating Newspaper app w/ Custom User Model">
+      <created>1585013748169</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1585013748169</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Updating the Newspaper app creating and configuring the user authentication">
+      <created>1585020351505</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1585020351505</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Setting up Bootstrap for the Newspaper app">
+      <created>1585020566772</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1585020566772</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Editing the tests, urls, and views for Newspaper app">
+      <created>1585184757977</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1585184757977</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Adding bootstrap to website.">
+      <created>1585528121230</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1585528121230</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Configuring password reset">
+      <created>1586810309858</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1586810309858</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -331,7 +392,14 @@
     <MESSAGE value="Configuring files and updates for Heroku" />
     <MESSAGE value="Heroku config" />
     <MESSAGE value="Updating the Heroku config typ in the blog_project\settings.py whitenoise config." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating the Heroku config typ in the blog_project\settings.py whitenoise config." />
+    <MESSAGE value="Updating the Heroku config typo in the blog_project\settings.py whitenoise config." />
+    <MESSAGE value="Creating Newspaper app w/ Custom User Model" />
+    <MESSAGE value="Updating the Newspaper app creating and configuring the user authentication" />
+    <MESSAGE value="Setting up Bootstrap for the Newspaper app" />
+    <MESSAGE value="Editing the tests, urls, and views for Newspaper app" />
+    <MESSAGE value="Adding bootstrap to website." />
+    <MESSAGE value="Configuring password reset" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configuring password reset" />
   </component>
   <component name="WindowStateProjectService">
     <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584724270846">
@@ -342,19 +410,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="601" y="287" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584642442707" />
-    <state x="558" y="116" key="CommitChangelistDialog2" timestamp="1584851018968">
+    <state x="558" y="116" key="CommitChangelistDialog2" timestamp="1586810308088">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="116" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584851018968" />
+    <state x="558" y="116" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1586810308088" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1584504334067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584504334067" />
-    <state x="526" y="193" key="FileChooserDialogImpl" timestamp="1584908229209">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1585613402755">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584908229209" />
-    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584586121190" />
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1585613402755" />
     <state x="754" y="420" key="GitRewordDialog" timestamp="1584847012578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -371,10 +438,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="846" y="435" key="VCS.EditChangelistDialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584846967193" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584849731232">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586810622991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584849731232" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1586810622991" />
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584846845987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
